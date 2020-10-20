@@ -45,7 +45,7 @@
           </div>
 
           <div class="col-lg-6 background order-lg-2" data-aos="zoom-in">
-            <img src="assets/img/img-intro.png" class="img-fluid" alt="">
+            <img src="https://github.com/OscarSilvaOfficial/Blog/blob/main/front/assets/img/img-intro.PNG?raw=true" class="img-fluid" alt="">
           </div>
         </div>
 
