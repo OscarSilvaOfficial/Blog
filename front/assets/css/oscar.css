@@ -1,0 +1,54 @@
+.dolar {
+    color: #35ae35;
+}
+
+.assinatura {
+    font-size: 2em;
+}
+
+.dir {
+    color: teal;
+}
+
+i.fa.fa-github {
+    font-size: 2pc;
+    color: black;
+}
+
+#btn-github {
+    background: white !important;
+}
+
+#intro .intro-info .btn-get-started {
+    background: white;
+    border: 2px solid #007bff;
+    color: #fff;
+}
+
+#intro .intro-info .btn-get-started:hover {
+    background: #74b5fc;
+    border: 2px solid #007bff;
+    color: #fff;
+}
+
+.footer-contact {
+    margin-left: 44%;
+}
+
+@media only screen and (max-width: 1000px) {
+    .footer-contact {
+        margin-left: 41%;
+    }
+}
+
+@media only screen and (max-width: 800px) {
+    .footer-contact {
+        margin-left: 39%;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    .footer-contact {
+        margin-left: 36%;
+    }
+}
