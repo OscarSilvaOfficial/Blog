@@ -19,7 +19,7 @@
                                 <h3 class="title">FullStack Developer - 19 Anos</h3>
                                 <p class="description">
                                     Duas semanas após a minha saída da empresa, fui contratado como Desenvolvedor FullStack Pleno
-                                    e hoje atuo em desenvolvendo em PHP na mesma. 
+                                    e hoje atuo em desenvolvendo usando PHP na mesma. 
                                 </p>
                             </div>
                         </a>
@@ -45,7 +45,7 @@
                             <div class="timeline-content">
                                 <h3 class="title">Assistente de TI - 17 Anos</h3>
                                 <p class="description">
-                                    Ainda como assistente de TI aprendi muito coisa, como ter uma inteligência emocional muito forte
+                                    Ainda como assistente de TI aprendi muitas coisas, como ter uma inteligência emocional muito forte
                                     pois tomei frente te alguns projetos na parte de Infra e tive mais responsabilídades na gestão,
                                     configuração e monitoramento de infra
                                 </p>
