@@ -6,7 +6,7 @@
       </div>
 
       <div class="intro-info aos-init aos-animate" data-aos="zoom-in" data-aos-delay="100">
-        <h2>Como programador<br><span>soluções</span><br>é o meu forte!</h2>
+        <h2>Como programador<br><span>soluções</span><br>são o meu forte!</h2>
         <div>
           <a href="https://github.com/OscarSilvaOfficial" class="btn-get-started scrollto"><i class="fa fa-github" aria-hidden="true"></i></a>
         </div>
