@@ -4,7 +4,7 @@
       <div class="logo float-left">
         <!-- Uncomment below if you prefer to use an text logo -->
         <!-- <h1><a href="index.html">NewBiz</a></h1> -->
-        <a href="index.html">
+        <a href="#">
           <kbd class="assinatura">OscarDaSilva<span class="dolar">~$ </span><span class="dir">./</span><span class="dirname">cd #</span></kbd> 
         </a>
       </div>
